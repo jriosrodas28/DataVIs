@@ -38,3 +38,5 @@ This course is about preparing, visualizing, reporting, and presenting different
 The primary tool for visualization will be the `ggplot2` library in R, which we will use for static graphics. We will then move on to `plotly` for creating interactive graphs that include mouse-over and click events. Later, we will use R’s `shiny` and `DT` libraries to build and publish interactive web apps and dashboards that allow data exploration, sorting, and filtering. The course will culminate in creating multi-graph or map web apps that respond to user inputs or display real-time data streams.
 
 Throughout the course, you will use GitHub for version control to organize and track your code and visualization projects.
+
+mod 1 - 3/20/25
